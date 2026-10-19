@@ -22,4 +22,4 @@ The correct formula is
 r = 1 - (4 * stat) / (n * (n + 1))
 ```
 
-This affects one printed value. For RF (URL + HTML) vs. RF (All Features), the notebook prints `r = 0.750. The correct value is r = 0.500 (W = 2.5, n = 4 non-tied folds). The manuscript reports the corrected value.
+This affects one printed value. For RF (URL + HTML) vs. RF (All Features), the notebook prints r = 0.750. The correct value is r = 0.500 (W = 2.5, n = 4 non-tied folds). The manuscript reports the corrected value.
